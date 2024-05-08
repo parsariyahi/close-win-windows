@@ -1,2 +1,1 @@
-notepad.exe
-chrome.exe
+{YOUR_PROC_NAME}.exe
